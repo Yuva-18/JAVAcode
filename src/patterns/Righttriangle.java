@@ -1,7 +1,6 @@
 package patterns;
 
-import java.net.SocketOption;
-import java.sql.SQLOutput;
+
 
 public class Righttriangle {
     public static void main(String[] args) {
