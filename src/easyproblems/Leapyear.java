@@ -3,7 +3,7 @@ package easyproblems;
 import java.util.Scanner;
 
 public class Leapyear {
-    public static void main(String[] args) {
+    public static void main(Stringval[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter a year: ");
         int year = scan.nextInt();

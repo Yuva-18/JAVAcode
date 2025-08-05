@@ -1,7 +1,7 @@
 package easyproblems;
 
 public class Whileloop {
-    public static void main(String[] args){
+    public static void main(Stringval[] args){
         int n = 1;
         while(n <= 50){
             int num = n;

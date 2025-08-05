@@ -1,7 +1,7 @@
 package easyproblems;
 
 public class Amstrongnum {
-    public static void main(String[] args){
+    public static void main(Stringval[] args){
         int n = 153;
         int original = n, rev = 0;
         while(n>0){
