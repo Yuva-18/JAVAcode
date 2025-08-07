@@ -7,12 +7,12 @@ class Person {
         this.name = name;
         this.age = age;
     }
-    void display(){
+    void showDetails(){
         System.out.println("Name: "+ name + "Age: "+age);
     }
     public static void main(String[] args) {
         Person obj = new Person("Yuva",19);
-        obj.display();
+        obj.showDetails();
 
     }
 
